@@ -4,14 +4,14 @@
 #show: arkheion.with(
   title: "Descente dans l'enfer logique",
   authors: (
-    (name: "Boris Eng", email: "https://engboris.fr", affiliation: "ReFL, OCamlPro", orcid: "0000-0002-7844-9727"),
-    // (name: "Author 2", email: "user@domain.com", affiliation: "Company"),
+    (name: "Boris Eng",
+     email: "https://engboris.fr",
+     affiliation: "ReFL, OCamlPro"),
   ),
   abstract: [
   Dans cet article, j'illustre comment il est possible de partir d'intuitions naturelles sur le raisonnement pour ensuite descendre, en utilisant les dernières recherches en informatique théorique, à des niveaux de compréhension où toute intuition est évacuée au profit d'une connectique du sens. J'illustre mon propos en partant de l'évidence "si A est vrai, alors A est vrai".
   ],
-  // keywords: ("First keyword", "Second keyword", "etc."),
-  date: datetime.today(offset: auto).display("[day]/[month]/[year]"),
+  date: "27/10/2024",
 )
 #set cite(style: "chicago-author-date")
 #show link: underline
