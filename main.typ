@@ -5,7 +5,7 @@
   title: "Descente dans l'enfer logique",
   authors: (
     (name: "Boris Eng",
-     email: "https://engboris.fr",
+     email: "boris.eng@proton.me",
      affiliation: "ReFL, OCamlPro"),
   ),
   abstract: [
